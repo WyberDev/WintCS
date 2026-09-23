@@ -1,0 +1,2 @@
+C:\Users\milit\OneDrive\Documentos\WintC#\bin\Release\net10.0\win-x64\publish\WintC#.pdb
+C:\Users\milit\OneDrive\Documentos\WintC#\bin\Release\net10.0\win-x64\publish\WintC#.exe
